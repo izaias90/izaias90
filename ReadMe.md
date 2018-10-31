@@ -1,2 +1,2 @@
 git add . && git commit -m "mensagem"
-git push origem master
+git push origin master
